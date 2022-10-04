@@ -1,19 +1,18 @@
-# Title of the Project 
-
-    * PageRank/HITS computation
+# Sudoku-Solver
+    Read _Report.pdf_ for more informations about project
 
 # Author 
 
-    * Luca Bizzotto 875814, Giosue' Zannini 873810
+    Luca Bizzotto 875814, Giosue' Zannini 873810
 
 # Requirements
 
-    * g++ v9.4 or newer
-    * Make
+    g++ v9.4 or newer
+    Make
 
 # Compilation
 
-	* The code can be compiled and run with the provided makefile using the standard `make` command.
+     The code can be compiled and run with the provided makefile using the standard `make` command.
 
 # Sample Execution & Output
 

@@ -1,5 +1,5 @@
 # Sudoku-Solver
-    Read _Report.pdf_ for more informations about project
+    Read Report.pdf for more informations about project
 
 # Author 
 
